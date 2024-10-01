@@ -1,0 +1,27 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #f8f9fa;;
+}
+
+header {
+  background-color: #343a40;
+  color: white;
+  padding: 10px 0;
+  text-align: justify;
+}
+
+header h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+  .category-btn {
+    margin-right: 5px;
+  }
